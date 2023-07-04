@@ -6,7 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+<<<<<<< HEAD
         <module name="CollabAidaiSyrga" />
+=======
+        <module name="collabWithAidai" />
+>>>>>>> 69a4f4284c2f4135c7098b46cc507d312ccc4954
       </profile>
     </annotationProcessing>
   </component>
