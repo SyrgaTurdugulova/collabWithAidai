@@ -8,5 +8,7 @@ public class class1 {
         System.out.println("How are you?");
         System.out.println("Amazing");
         System.out.println("What about you?");
+        System.out.println("Great");
+        System.out.println("muah muah");
     }
 }
